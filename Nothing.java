@@ -1,3 +1,5 @@
+import java.util.Calendar;
+
 public class Nothing {
 
 	boolean work;
@@ -9,9 +11,10 @@ public class Nothing {
 public static void main(String[] args) {
 
 	Nothing natta = new Nothing();
+	Calendar rightNow = Calendar.getInstance();
 
 	do {
-		System.out.println( "Nothing" + '\n' );
+		
 	}
 	while ( natta.work = true ); 
 
