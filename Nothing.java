@@ -19,7 +19,7 @@ SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 
 	do {
 		System.out.println( simpleDateFormat.format( 
-rightNow.getTime() ));
+rightNow.getTime()  ));
 	}
 	while ( natta.work = true ); 
 
